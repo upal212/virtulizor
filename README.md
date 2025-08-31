@@ -13,7 +13,7 @@ By default installation is 100% untouched you will geta trail license once insta
 If you want to use nulled license you can null yourself see PATCH below for help...
 # Install Virtulizor 
 This will download and install Virtulizor beta 3.0.6 from virtulizor.com and isntall on your server \
-wget https://raw.githubusercontent.com/python-911/virtulizor/main/install.sh && chmod 777 install.sh 
+wget https://raw.githubusercontent.com/upal212/virtulizor/main/install.sh && chmod 777 install.sh 
 
 To check install guide here https://www.virtualizor.com/docs/install/ 
 
