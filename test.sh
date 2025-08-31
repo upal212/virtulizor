@@ -17,7 +17,7 @@ read licNULL
 if ([ "$licNULL" == "y" ] || [ "$licNULL" == "y" ]); then	
 	echo "Checking Virtulizor Version..."
 	echo ""
-	wget -O p.sh https://raw.githubusercontent.com/python-911/virtulizor/main/patch.sh
+	wget -O p.sh https://raw.githubusercontent.com/upal212/virtulizor/main/patch.sh
 	echo ""
 	echo ""
 	echo "Succesfully Downloaded virtulizor Patch..."
@@ -45,7 +45,7 @@ if ([ "$licNULL" == "y" ] || [ "$licNULL" == "y" ]); then
 	echo ""
 	echo "Cleaning files ( Patch file is still on your server as p.sh)"
 	echo ""
-	echo "For everything else hit me on https://github.com/python-911"
+	echo "For everything else hit me on https://github.com/upal212"
 	echo ""
 	echo "After update or reboot license may be invalid"
 	echo ""
