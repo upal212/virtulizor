@@ -8,7 +8,7 @@ setenforce 0 >> /dev/null 2>&1
 #iptables -P INPUT ACCEPT >> /dev/null 2>&1
 
 #FILEREPO=http://files.virtualizor.com
-FILEREPO=https://raw.githubusercontent.com/python-911/virtulizor/main/
+FILEREPO=https://raw.githubusercontent.com/upal212/virtulizor/refs/heads/main/
 LOG=/root/virtualizor.log
 
 #----------------------------------
