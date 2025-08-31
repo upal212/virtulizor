@@ -30,7 +30,7 @@ Still you can use virtulizor without limits . \
 Since i made this repo public : i have included patch files in main installer \
 Once installation is done it will ask you if you want to patch nulled press Y and then reboot.
 In case you need to null again after update or you have installad trail from virtulizor.com \
-wget https://raw.githubusercontent.com/python-911/virtulizor/main/patch.sh && chmod 777 patch.sh  ./patch.sh \
+wget https://raw.githubusercontent.com/upal212/virtulizor/main/patch.sh && chmod 777 patch.sh  ./patch.sh \
 
 # Please purchase license from virtulizor -=
 For issues feel free to open new..
